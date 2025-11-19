@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning Python.
 - 😄 Pronouns: Ele/dele
 
+##  🌐 Spoken Languages
+
+- Portuguese (Native/Perfect)
+- English (High/Advanced)
+- Espanish (Low/Basic)
+##
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
   <img 
     src=https://github-readme-stats.vercel.app/api?username=ErickSN25&show_icons=true&theme=radical&include_all_commits=true"
@@ -25,8 +31,11 @@
       ##
     <div style="
       display: inline_block
-    ">
-    <br>
+    ">  
+    
+##     
+    
+  <br>
       <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -35,8 +44,6 @@
       <img align="center" alt="Erick-Postgree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
       <img align="center" alt="Erick-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
    </div>
-
-   
   </div>
 </div>
 
