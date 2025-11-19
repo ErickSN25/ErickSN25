@@ -56,4 +56,4 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
 
-![Snake animation](https://github.com/ErnestoSESB/ErnestoSESB/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ErickSN25/ErickSN25/blob/output/github-contribution-grid-snake.svg)
