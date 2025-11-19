@@ -6,7 +6,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
   <img 
-    src=https://github-readme-stats.vercel.app/api?username=ErickSN25&show_icons=true&theme=cobalt&include_all_commits=true"
+    src=https://github-readme-stats.vercel.app/api?username=ErickSN25&show_icons=true&theme=radical&include_all_commits=true"
     style="width: 45em; max-width: 100%;"
   />
   <div style="
@@ -18,7 +18,7 @@
     align-items: flex-start; 
   ">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSN25&layout=compact&langs_count=16&theme=cobalt"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickSN25&layout=compact&langs_count=16&theme=radical"
       style="width: 30em; max-width: 100%;
     />
       <br>
